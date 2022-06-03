@@ -1,0 +1,59 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+}
+
+/* Card Section */
+
+.card {
+  width: 20em;
+  background-color: hsl(216, 50%, 16%);
+  color: hsl(0, 0%, 100%);
+  border-radius: 15px;
+  font-family: "Outfit", sans-serif;
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2),
+    0 10px 25px 15px rgba(0, 0, 0, 0.19);
+}
+
+.card img {
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.card-title {
+  padding-bottom: 10px;
+  font-weight: 550;
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+
+.card-text {
+  color: hsl(214, 9%, 52%);
+  font-size: 1.1rem;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+/* .container {
+  padding: 50px 390px 30px;
+} */
+
+hr {
+  background: hsl(215, 32%, 27%);
+}
+
+.creator {
+  color: hsl(214, 9%, 52%);
+  padding-left: 40px;
+}
+
+.price {
+  color: hsl(178, 100%, 50%);
+  font-weight: 900;
+  font-size: 0.9rem;
+  padding-left: 10px;
+}
+
+.time {
+  color: hsl(214, 9%, 52%);
+  padding-left: 90px;
+}
